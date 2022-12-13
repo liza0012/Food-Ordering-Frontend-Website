@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);;
+    color: rgb(23, 4, 4);
+    padding left: 30px;
+}
+
+p{
+    font-weight:bolder;
+    font-size: 30px;
+    margin-left: 40px !important;
+    text-decoration: double;
+    
+    text-align: center;
+
+}
+
+#footer{
+    background-color: brown;
+    color:white;
+    text-align: center;
+    padding: 10px;
+
+}
